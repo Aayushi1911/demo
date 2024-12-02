@@ -1,4 +1,4 @@
 # demo
 This is my 1st repository.
 <br>
-Author - Aayushi Mandaliya 
+Author - Aayushi  
